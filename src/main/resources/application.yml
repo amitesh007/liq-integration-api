@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: liqIntegrationApi
+netty:
+  default:
+    allocator:
+      max-order: 3
